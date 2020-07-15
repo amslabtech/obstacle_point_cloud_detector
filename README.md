@@ -1,4 +1,6 @@
 # obstacle_point_cloud_detector
+[![ci](https://github.com/amslabtech/obstacle_point_cloud_detector/workflows/ci/badge.svg)](https://github.com/amslabtech/obstacle_point_cloud_detector/actions)
+
 Obstacle and ground point cloud detection for ROS2
 
 # Requirement
