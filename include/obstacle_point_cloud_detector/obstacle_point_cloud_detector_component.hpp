@@ -61,12 +61,13 @@ extern "C" {
 }  // extern "C"
 #endif
 
-#include <rclcpp/rclcpp.hpp>
 #include <pcl/point_types.h>
 #include <pcl_conversions/pcl_conversions.h>
-#include <sensor_msgs/msg/point_cloud2.hpp>
 
 #include <string>
+
+#include <rclcpp/rclcpp.hpp>
+#include <sensor_msgs/msg/point_cloud2.hpp>
 
 
 namespace obstacle_point_cloud_detector
