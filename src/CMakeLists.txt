@@ -12,6 +12,7 @@ ament_target_dependencies(obstacle_point_cloud_detector
     rclcpp
     rclcpp_components
     sensor_msgs
+    pcl_conversions
 )
 
 add_executable(obstacle_point_cloud_detector_node
