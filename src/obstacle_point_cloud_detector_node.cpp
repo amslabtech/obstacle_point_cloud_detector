@@ -12,11 +12,12 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#include "obstacle_point_cloud_detector/obstacle_point_cloud_detector_component.hpp"
-
-#include <rclcpp/rclcpp.hpp>
 
 #include <memory>
+
+#include "obstacle_point_cloud_detector/obstacle_point_cloud_detector_component.hpp"
+#include <rclcpp/rclcpp.hpp>
+
 
 int main(int argc, char * argv[])
 {
